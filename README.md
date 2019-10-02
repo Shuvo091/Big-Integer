@@ -13,3 +13,6 @@ the key features:
                    <6>: Modular operation
                    <7>: Factorial operation
                    <8>: Matrix operations on Big integers
+                   
+                   
+Please Download all the files and folders as given & run the string based.cbp file on CodeBlocks
