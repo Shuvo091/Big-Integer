@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1527047598 source:e:\programming\bigint project\string based\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527014328 e:\programming\bigint project\string based\include\bigint.h
+
+1527047620 source:e:\programming\bigint project\string based\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527012174 source:e:\programming\bigint project\string based\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1526990110 e:\programming\bigint project\string based\arithmatic.h
+
+1526990693 e:\programming\bigint project\string based\assignment.h
+
+1527003601 source:e:\programming\bigint project\string based\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527000155 source:e:\programming\bigint project\string based\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527014328 source:e:\programming\bigint project\string based\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527003601 source:e:\programming\bigint project\backup folder\string based\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527048179 e:\programming\bigint project\backup folder\string based\include\bigint.h
+
+1527000155 source:e:\programming\bigint project\backup folder\string based\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072073 source:e:\programming\bigint project\backup folder\string based\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527014328 source:e:\programming\bigint project\backup folder\string based\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072092 source:e:\programming\bigint project\backup folder\string based\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527071459 source:e:\programming\bigint project\backup folder\string based\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527084758 source:e:\programming\bigint project\backup folder\string - success in addition - copy\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527077754 e:\programming\bigint project\backup folder\string - success in addition - copy\include\bigint.h
+
+1527003601 source:e:\programming\bigint project\backup folder\string - success in addition - copy\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527000155 source:e:\programming\bigint project\backup folder\string - success in addition - copy\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527077754 source:e:\programming\bigint project\backup folder\string - success in addition - copy\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527075746 source:e:\programming\bigint project\backup folder\string - success in addition - copy\other.cpp
+	<bits/stdc++.h>
+
+1527072092 source:e:\programming\bigint project\backup folder\string - success in addition - copy\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527075555 e:\programming\bigint project\backup folder\string - success in addition - copy\other.cpp
+	<bits/stdc++.h>
+
+1527003601 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527151928 e:\programming\bigint project\backup folder\string - success in addition - copy - copy\include\bigint.h
+
+1527000155 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527151991 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072092 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527199507 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527199554 source:e:\programming\bigint project\backup folder\string - success in addition - copy - copy\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527199507 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527151928 c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\include\bigint.h
+
+1527003601 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527000155 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529676435 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527151991 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072092 source:c:\users\shuvo\desktop\bigint\string - success in addition - copy - copy\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527199507 source:d:\bigint\string - success in addition - copy - copy\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529753539 d:\bigint\string - success in addition - copy - copy\include\bigint.h
+
+1527003601 source:d:\bigint\string - success in addition - copy - copy\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529678376 source:d:\bigint\string - success in addition - copy - copy\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529765030 source:d:\bigint\string - success in addition - copy - copy\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+	"Matrix.h"
+	<fstream>
+	<sstream>
+
+1529753644 source:d:\bigint\string - success in addition - copy - copy\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072092 source:d:\bigint\string - success in addition - copy - copy\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529679540 source:d:\bigint\string - success in addition - copy - copy\src\matrix.cpp
+	"Matrix.h"
+
+1529758807 d:\bigint\string - success in addition - copy - copy\include\matrix.h
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529753593 source:d:\bigint\string - success in addition - copy - copy\intopost.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+	"Matrix.h"
+
+1527199508 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\arithmatic.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529753540 d:\programming\bigint project\final addition\string - success in addition - copy - copy\include\bigint.h
+
+1527003602 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\assignment.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529753594 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\intopost.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+	"Matrix.h"
+
+1529758808 d:\programming\bigint project\final addition\string - success in addition - copy - copy\include\matrix.h
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529678378 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\io.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529771260 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\main.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+	"Matrix.h"
+	<fstream>
+	<sstream>
+
+1529753646 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\other.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1527072094 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\src\bigint.cpp
+	<bits/stdc++.h>
+	"bigint.h"
+
+1529679542 source:d:\programming\bigint project\final addition\string - success in addition - copy - copy\src\matrix.cpp
+	"Matrix.h"
+
